@@ -17,9 +17,9 @@ I'm interested in computational modeling in solid mechanics and have broader int
 
 ## Contact details:
 
-<annascott@jhu.edu>
+<yazdoud1@jhu.edu>
 
-323 Olin Hall  
+Latrobe Hall 307
 Johns Hopkins University  
 3400 N. Charles Street  
 Baltimore, MD
