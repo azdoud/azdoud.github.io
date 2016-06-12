@@ -4,7 +4,7 @@ title: Publications
 permalink: /pubs
 ---
 
-See also my [Google Scholar profile.](https://scholar.google.com/citations?user=mWMz9y4AAAAJ&hl=en)
+See also my [Google Scholar profile.](https://scholar.google.com/citations?user=Sjpa5TYAAAAJ&hl=en)
 
 ## In progress
 
@@ -25,6 +25,20 @@ See also my [Google Scholar profile.](https://scholar.google.com/citations?user=
   J. Climate_. [[pdf]](downloads/pdfs/Seviour_etal_2016_SO_Submitted.pdf)
 
 ## Peer-reviewed
+
+- F. Han, G. Lubineau, Y. Azdoud, Adaptive coupling between damage mechanics and peridynamics: a route for objective simulation of material degradation up to complete failure, Journal of the Mechanics and Physics of Solids, (2016)
+
+- F Han, G. Lubineau, Y. Azdoud, A. Askari, A morphing approach to couple state-based peridynamics with classical continuum mechanics, Computer Methods in Applied Mechanics and Engineering, (2016)
+
+- Y. Azdoud, F. Han, G. Lubineau, The morphing method as a flexible tool for adaptive local/non-local simulation of fracture, Computational mechanics, Vol 54, 711-722, (2014)
+
+- F. Han, Y. Azdoud, G. Lubineau, Computational modeling of elastic properties of carbon nanotube/polymer composites with interphase regions. Part I: Microstructural characterization and geometric modeling, Computational Materials Science, Vol 81, 641-651, (2014)
+
+- F. Han, Y. Azdoud, G. Lubineau, Computational modeling of elastic properties of carbon nanotube/polymer composites with interphase regions. Part II: Mechanical modeling, Computational Materials Science, Vol 81, 652-661, (2014) (7 citations)
+
+- Y.Azdoud, F. Han, G. Lubineau, A morphing framework to couple non-local and local anisotropic continua, International Journal of Solids and Structures, Vol 50, 9, 1332-1341, (2013)
+
+- G. Lubineau, Y. Azdoud, F. Han, C. Rey and A. Askari, A morphing strategy to couple local to non-local continuum mechanics, Journal of the Mechanics and Physics of Solids, Vol 60, 6, 1088-1102, (2012)
 
 - Seviour, W. J. M., L. J. Gray, and D. M. Mitchell (2016). **Stratospheric
   polar vortex splits and displacements in the high-top CMIP5 climate models**,
