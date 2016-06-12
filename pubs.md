@@ -26,7 +26,7 @@ See also my [Google Scholar profile.](https://scholar.google.com/citations?user=
 
 ## Peer-reviewed
 
-- F. Han, G. Lubineau, Y. Azdoud, Adaptive coupling between damage mechanics and peridynamics: a route for objective simulation of material degradation up to complete failure, _Journal of the Mechanics and Physics of Solids_, (2016)
+- F. Han, G. Lubineau, Y. Azdoud, Adaptive coupling between damage mechanics and peridynamics: a route for objective simulation of material degradation up to complete failure, _Journal of the Mechanics and Physics of Solids_, (2016) [[pdf]](https://www.researchgate.net/profile/Fei_Han5/publication/303320003_Adaptive_coupling_between_damage_mechanics_and_peridynamics_a_route_for_objective_simulation_of_material_degradation_up_to_complete_failure/links/574580fa08ae298602f8029d.pdf)
 
 - F Han, G. Lubineau, Y. Azdoud, A. Askari, A morphing approach to couple state-based peridynamics with classical continuum mechanics, _Computer Methods in Applied Mechanics and Engineering_, (2016)
 
