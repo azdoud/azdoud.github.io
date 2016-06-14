@@ -13,7 +13,7 @@ University](http://jhu.edu/).
 I'm interested in computational modeling in solid mechanics and have broader interest in interdisciplinary research. I am currently working on a wavelet-based adaptive hierarchical method for FEM, with specific application to crystal plasticity in mind. I also enjoy taking part in outreach, mainly through courses I give at the Baltimore Tool library.
 
 
-[You can view my CV here.]()
+[You can view my CV here.](pdf/resume_yan.pdf)
 
 ## Contact details:
 
