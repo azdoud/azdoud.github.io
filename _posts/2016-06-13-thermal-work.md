@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Non-destructive thermal detection of cracks"
-date: 2016-04-25 14:07
+date: 2016-06-13 10:17
 category: research
 ---
 
