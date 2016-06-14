@@ -4,8 +4,7 @@ permalink: /index
 ---
 
 <img src="desert.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
-title="The interface of the cryosphere, atmosphere, hydrosphere (and biosphere)
-on Lake Superior."/>
+title="Me the morning after a night in the Saudi desert, near Wahba crater"/>
 
 Hi, I'm Yan. I'm a Postdoctoral fellow in the [civil engineering department](https://engineering.jhu.edu/civil/) at [Johns Hopkins
 University](http://jhu.edu/).
