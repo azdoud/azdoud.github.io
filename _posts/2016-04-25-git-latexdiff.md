@@ -1,26 +1,9 @@
 ---
 layout: post
-title: "LaTeX 'track changes' and Git"
+title: "Non-destructive thermal detection of cracks"
 date: 2016-04-25 14:07
-category: Software
+category: research
 ---
 
-When submitting revisions, many journals ask for a version of your manuscript
-showing the 'track changes' since the originally submitted version.  The
-excellent [`git-latexdiff`](https://gitlab.com/git-latexdiff/git-latexdiff)
-provides a wrapper around Git and the
-[latexdiff](https://www.ctan.org/pkg/latexdiff?lang=en) Perl script. So, if I
-know the commit hash of the submitted version I can easily produce a pdf showing
-the changes.
+Back in 2009, first year of Masters in Ecole Normale Superieure,  I conducted preliminary research on non-destructive method for the analysis of damage. My collegue Julie Gimenez and I came up with this idea that diffuse damage could modify the thermal conductivity of composite material, and decided to evaluate this effect through a quick and simple 2D finite difference scheme implemented on Matlab. With simple assumptions on the conductivity of the cracked matrix fiber interface, we managed to identify a non-negligible change due to damage. Here you can find a link to a presentation about this work, with all the skill and english fluency I could munster at the time.
 
-There are lots of options for how to format the output; my preferred setup is
-something like the command below (to include in the project Makefile):
-
-```Makefile
-diff.pdf : paper.tex
-  git-latexdiff --bibtex --quiet -t CFONT --main $^ #git_hash_of_submitted_version# HEAD -o $@
-```
-
-This produces output looking something like this:
-
-![Example of `git-latexdiff` output](/images/git-latexdiff.png)
