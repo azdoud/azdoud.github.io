@@ -5,7 +5,7 @@ permalink: /work projects
 ---
 
 
-# Coupling method between Local and Non-local Models: The morphing method
+# Coupling Local and Non-local Models: The morphing method
 
 In this work, I designed a new type of coupling method between the classic continuum theory and integral non-local models such as peridynamics. The motivation of such method is to reduce computational cost when using peridynamics by restricting the domain of application, and to provide simple boundary conditions. In [1], I developed the morphing method based on an energy density constraint at the local level. A smooth transition between local model and non-local model is achieved by introducing a coupling parameter, alpha(x), in the hybrid constitutive equation. The coupling is achieved in a thick coupling zone, where alpha(x) varies, surrounding the pure non-local patch.
 The paper [1] demonstrates the effectiveness of the method for 2D cases, and gives an interpretation to the coupling error in an analytical 1D case. The paper [2] extends the method to three dimensions and partial anisotropic cases, and paper [3] extend it to state-based peridynamic. In these cases, the standard Finite Element Method is used.
