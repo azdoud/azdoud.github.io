@@ -34,7 +34,7 @@ title="Potential vorticity during the vortex splitting event in December 1984."/
 [6] A. Askari, Y. Azdoud, F. Han, G. Lubineau, S. Silling, Peridynamics for analysis of failure in advanced composite materials, Chapter 19 (12), Numerical Modelling of Failure in Advanced Composite Materials, Woodhead Publishing (2015)
 
 * PhD thesis:
-* 
+
 [7] Y.Azdoud, A hybrid local/non-local framework for the simulation of damage and fracture, 2014
 Technical Summary of Work:
 (Please provide one to two paragraphs describing the work using the technical terminology and explanation of work that an expert would be able to understand and evaluate.)
@@ -62,6 +62,7 @@ In [2,3], I extend the concept to damage continuum. I couple local damage to non
 [2] F. Han, G. Lubineau, Y. Azdoud, Adaptive coupling between damage mechanics and peridynamics: a route for objective simulation of material degradation up to complete failure, Journal of the Mechanics and Physics of Solids, (2016)
 
 * PhD thesis:
+
 [3] Y.Azdoud, A hybrid local/non-local framework for the simulation of damage and fracture, 2014
 
 
@@ -92,12 +93,12 @@ In this work, I study a particular problem associated with the prediction of eff
 # Adaptive Wavelet Enhancement method
 
 In this work, I develop an innovative optimization method to adaptively enrich the accuracy of crystal plasticity simulation while limiting the computational cost. Modeling complex polycrystalline microstructure requires a fine discretization to ensure satisfactory accuracy, which ultimately impacts the computational cost. This is especially critical for problems introducing phenomenology with localization, such as shear banding, twinning or fracture. I develop a new method based on second generation wavelets to enrich finite element simulations. In this new method, a wavelet decomposition scheme is used to analyze error indicators in order to provide a basis of enrichment functions. The wavelet family is chosen such that the enriching function constitutes a hierarchical finite element basis. These functions are introduced adaptively in the FEM scheme to locally enrich the solution. The particularity of this method is that the adaptive scheme is consistent with the error analysis.
-This is currently a work in progress but it has been favorably received in the community through conference [10] and reports [11, 12]. I am currently preparing 2 publications on this subject that are expected for submission in 2016.
+This is currently a work in progress but it has been favorably received in the community through conference [1] and reports [2, 3]. I am currently preparing 2 publications on this subject that are expected for submission in 2016.
 
 **Resources**
 
 * Conference and report meetings:
-* 
+
 [1] Y.Azdoud, J.Cheng, S. Ghosh, The Adaptive Wavelet Enhancement for Crystal Plastic Finite Element Method, 13th US National Congress on Computational Mechanics, San Diego, CA (2015)
 
 [2] S.Ghosh, Y. Azdoud, Advancing Computational Methods for Image-based Modeling of Polycrystalline Metallic Material, AFOSR 2015 Multiscale Structural Mechanics Annual Grantees Meeting, Fort Walton, FL (2015)
