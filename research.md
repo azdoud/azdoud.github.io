@@ -11,8 +11,6 @@ In this work, I designed a new type of coupling method between the classic conti
 The paper [1] demonstrates the effectiveness of the method for 2D cases, and gives an interpretation to the coupling error in an analytical 1D case. The paper [2] extends the method to three dimensions and partial anisotropic cases, and paper [3] extend it to state-based peridynamic. In these cases, the standard Finite Element Method is used.
 
 
-<img src="/images/vortex.gif" width="200" style="float:right; margin: 1em 0 4em 2em;"
-title="Potential vorticity during the vortex splitting event in December 1984."/>
 
 
 
