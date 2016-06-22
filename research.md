@@ -41,7 +41,13 @@ Technical Summary of Work:
 
 
 
+
+
 # Adaptive coupling for fracture and damage.
+
+
+
+
 
 In this work, I designed a new method for simulating fracture and damage using a hybrid local/non-local model. The morphing method is used to seamlessly link the local and non-local region that are adaptively defined following non-local (in the case of fracture [1]) or local (in the case of damage [2,3]) evolution criteria. Discontinuous Galerkin Finite Element Method (DGFEM) is used in the non-local region to allow failure induced discontinuities. In [1], a seed region is defined where fracture initiation is likely to occur, and propagation of the region is handled by maintaining a characteristic distance to the crack nucleation area. I demonstrate that the adaptive scheme does not interact with the crack propagation phenomenology by using a 3D CT test. I also demonstrate mesh independence.
 In [2,3], I extend the concept to damage continuum. I couple local damage to non-local fracture in order to handle softening by the non-local model, while initiation and hardening is predicted by the local model. The adaptive local/non-local partition is controlled by a local criterion dependent upon the value of the local damage indicator. In that case, no seed region is required. A simple one variable local damage model with hardening is taken. Demonstration is given using a simple 3D traction test.
@@ -64,6 +70,11 @@ In [2,3], I extend the concept to damage continuum. I couple local damage to non
 
 
 # Microstructural simulation of CNT nanocomposites
+
+
+
+
+
 
 In this work, I study a particular problem associated with the prediction of effective properties of Carbon Nanotube (CNT) nanocomposites. Homogenized mechanical properties of CNT nanocomposites are generally difficult to predict because of the complex network of nanotubes, possible clustering, confinement and alteration of the matrix due to the nanotubes high aspect ratio and small size. Indeed, biphasic simulations conducted with straight nanotubes having a random distribution and orientation were unable to predict the experimentally observed moduli at either low or high volume fraction of CNT. In [1] and [2], we propose a new strategy based on the introduction of an interphase, which emulates the effect of the nanotube on the matrix. Indeed, density and crystallinity of the matrix has been demonstrated to be higher closer to the nanotube and present good bonding properties. In [1], we present the geometrical analysis associated with the nanocomposite problem. Parameters related to distribution, orientation and clustering of CNT are introduced, as well as interphase parameters. In [2], we develop two models, one based a hybrid local/non-local model, which simply introduces a change in the matrix behavior, as well as a local model which has an equivalent effective stiffness model based on the hybrid. An important result of this study is that the interphase volume fraction is the driving parameter when it comes to analyzing effective moduli, while other parameters such as ‘clusterization’ parameter, CNT volume fraction and interphase thickness are weakly influencing the results. Moreover, the hybrid model gives finer-grain information relative to stress and strain concentration in the model, and will be used for damage and failure simulation.
 
