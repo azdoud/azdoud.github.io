@@ -8,6 +8,8 @@ permalink: /work projects
 # I Adaptive Wavelet Enhancement method
 
 In this work, I develop an innovative optimization method to adaptively enrich the accuracy of crystal plasticity simulation while limiting the computational cost. Modeling complex polycrystalline microstructure requires a fine discretization to ensure satisfactory accuracy, which ultimately impacts the computational cost. This is especially critical for problems introducing phenomenology with localization, such as shear banding, twinning or fracture. I develop a new method based on second generation wavelets to enrich finite element simulations. In this new method, a wavelet decomposition scheme is used to analyze error indicators in order to provide a basis of enrichment functions. The wavelet family is chosen such that the enriching function constitutes a hierarchical finite element basis. These functions are introduced adaptively in the FEM scheme to locally enrich the solution. The particularity of this method is that the adaptive scheme is consistent with the error analysis.
+<img src="https://azdoud.github.io/images/enrich-cube.jpg" width="280" style="float:right; margin: 1em 0 4em 2em;"
+title="the enrichment nodes (red) are located where needed"/>
 This is currently a work in progress but it has been favorably received in the community through conference [1] and reports [2, 3]. I am currently preparing 2 publications on this subject that are expected for submission in 2016.
 
 **Resources**
