@@ -2,7 +2,7 @@
 layout: post
 title: "How parks cool Baltimore"
 date: 2016-08-27 15:27
-category: outreach
+category: research projects
 ---
 
 Few months ago, Anna and Chris invited me to work on a project related to Anna's PhD research on weather measurment in urban environment. She already conducted succesful field campaigns to gather temperature data with button-like temperature sensors. The problem of this technology was the relatively high cost of the sensor and the logistic problems associated with data gathering. Each end of summer, Anna had to gather back all the sensors to extract the data, recharge the battery and analyse the data. This was expensive, inefficient and the possibility of loosing data a real threat. Therefore, the need for a low cost, real-time, autonomous and accurate sensing method was critical.
