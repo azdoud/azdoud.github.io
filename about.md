@@ -18,9 +18,7 @@ I'm interested in computational modeling in solid mechanics and have broader int
 
 <yan.azdoud@gmail.com>
 
-Latrobe Hall 307
-Johns Hopkins University  
-3400 N. Charles Street  
+1807 Saint Paul Street
 Baltimore, MD
-21218  
+21202 
 USA
